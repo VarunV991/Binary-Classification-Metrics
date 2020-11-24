@@ -93,4 +93,4 @@ def weighted_avg_recall_score(predicted,actual):
     recall_neg = fall_out_score(predicted,actual)
     return (total_pos*recall_pos + total_neg*recall_neg)/len(actual)
 
-__version__ = "0.1"
+__version__ = "0.0.3"

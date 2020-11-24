@@ -1,11 +1,11 @@
 from distutils.core import setup
 setup(
-  name='Binary Classification Metrics',        
-  packages = ['Binary Classification Metrics'],   
-  version = '0.0.1',      
+  name='BinaryClassificationMetrics',        
+  packages = ['BinaryClassificationMetrics'],   
+  version = '0.0.2',      
   license='MIT',        
   description='This package contains various binary classification metric methods.',
-  long_description=open('README.md').read() + '\n\n' + open('CHANGELOG.txt').read(),   
+  long_description=open('README.txt').read() + '\n\n' + open('CHANGELOG.txt').read(),   
   author = 'Varun V',                  
   author_email = 'varunofficial99@gmail.com',      
   url = 'https://github.com/VarunV991/Binary-Classification-Metrics',  
