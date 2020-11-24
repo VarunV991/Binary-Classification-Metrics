@@ -9,7 +9,7 @@ setup(
   author = 'Varun V',                  
   author_email = 'varunofficial99@gmail.com',      
   url = 'https://github.com/VarunV991/Binary-Classification-Metrics',  
-  download_url = 'https://github.com/VarunV991/Binary-Classification-Metrics/archive/v_0.1.tar.gz',   
+  download_url = 'https://github.com/VarunV991/Binary-Classification-Metrics/archive/v0.0.1.tar.gz',   
   keywords = ['binary-classification', 'metrics'], 
   classifiers=[
     'Development Status :: 5 - Production/Stable',     
